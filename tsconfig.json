@@ -111,8 +111,8 @@
     "src/**/*.d.ts",
     "src/**/*.tsx",
     "src/**/*.vue",
-    "example/**/*.ts",
-    "example/**/*.vue",
+    "examples/**/*.ts",
+    "examples/**/*.vue",
     "types/**/*.d.ts"
   ]
 }
